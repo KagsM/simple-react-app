@@ -7,7 +7,6 @@ function App() {
   const [users, setUsers] = useState([]);
   const [editingUser, setEditingUser] = useState(null);
 
-  // Fetch data from db.json
   useEffect(() => {
     fetch('http://localhost:3000/users')
       .then((res) => res.json())
