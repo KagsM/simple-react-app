@@ -4,7 +4,7 @@ This is a simple react mini app that takes in submissions, allows editing, stori
 ---
 
 ## Setup
-To run the code on your machine locally, split your terminal and enter the code below.
+To run the code on your machine locally, split your terminal and enter the code below in either terminal.
 
 ```
 json-server --watch ./db.json --port 5000
