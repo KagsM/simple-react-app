@@ -1,0 +1,16 @@
+{
+  "submissions": [
+    {
+      "id": "1",
+      "name": "Joan",
+      "email": "joanr@gmail.com",
+      "message": "Hi!"
+    },
+    {
+      "name": "TWD",
+      "email": "malcolm.kagolobya@student.moringaschool.com",
+      "message": "Nah!",
+      "id": "819a"
+    }
+  ]
+}
